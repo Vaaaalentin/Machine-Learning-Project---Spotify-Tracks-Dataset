@@ -1,0 +1,26 @@
+# 1. Données et modèles (fichiers lourds)
+data/
+*.csv
+*.parquet
+*.pkl
+*.joblib
+*.h5
+
+# 2. Environnements virtuels Python
+venv/
+.venv/
+env/
+
+# 3. Cache Python et Jupyter Notebooks
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# 4. Identifiants et clés API (sécurité)
+.env
+kaggle.json
+
+# 5. Fichiers liés à l'éditeur et au système d'exploitation (Mac/Windows/VS Code)
+.vscode/
+.DS_Store
+Thumbs.db
