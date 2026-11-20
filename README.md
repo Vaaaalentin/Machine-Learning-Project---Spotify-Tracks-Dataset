@@ -1,4 +1,4 @@
-# 🎵 Machine Learning Project — Spotify Tracks Dataset
+# Machine Learning Project — Spotify Tracks Dataset
 
 > **Course:** ESILV (A4-All), De Vinci Group — *Nédra Mellouli @ 2026-2027*  
 > **Document:** Part II — Project Definition and Kick-off Instructions
